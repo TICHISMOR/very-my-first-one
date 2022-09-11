@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tichismor/my%20very%20first%20pipline/_apis/build/status/TICHISMOR.very-my-first-one?branchName=main)](https://dev.azure.com/tichismor/my%20very%20first%20pipline/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
